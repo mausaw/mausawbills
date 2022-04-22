@@ -1,0 +1,198 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="PlutoTVCBSN2.us" status="online",Pluto TV CBSN (720p) 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId= 
+
+#EXTINF:-1 tvg-id="PlutoTVCBSNewsBayArea.us" status="online",Pluto TV CBSN Bay Area CA (720p) [Não 24/7] 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+ 
+#EXTINF:-1 tvg-id="PlutoTVCBSNewsBoston.us" status="online",Pluto TV CBSN Boston MA (720p) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+ 
+#EXTINF:-1 tvg-id="PlutoTVCBSNewsChicago.us" status="online",Pluto TV CBSN Chicago IL (720p) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+ 
+#EXTINF:-1 tvg-id="PlutoTVCBSNewsDenver.us" status="online",Pluto TV CBSN Denver CO (720p) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+ 
+#EXTINF:-1 tvg-id="PlutoTVCBSNewsLosAngeles.us" status="online",Pluto TV CBSN Los Angeles CA (720p) 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc481cda1d430000948a1b4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=207&terminate=false&userId=
+ 
+#EXTINF:-1 tvg-id="PlutoTVCBSNMinnesota.us" status="online",Pluto TV CBSN Minnesota MN (720p) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+ 
+#EXTINF:-1 tvg-id="PlutoTVCBSNNewYork.us" status="online",Pluto TV CBSN New York NY (720p) 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc48170e280c80009a861ab&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=206&terminate=false&userId=
+ 
+#EXTINF:-1 tvg-id="PlutoTVCBSNPhilly.us" status="online",Pluto TV CBSN Philly PA (720p) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+ 
+#EXTINF:-1 tvg-id="PlutoTVCBSNPittsburgh.us" status="online",Pluto TV CBSN Pittsburgh PA (720p) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
+
+#EXTINF:-1 tvg-id="" status="online",CBSN (720p) 
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",CBSN Bay Area CA (720p) [Não 24/7] 
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",CBSN Boston MA (720p) 
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",CBSN Chicago IL (720p) 
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",CBSN Dallas Ft Worth TX (720p) 
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",CBSN Denver CO (720p) 
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",CBSN Los Angeles CA (720p) [Não 24/7] 
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",CBSN Minnesota MN (720p) 
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",CBSN New York NY (720p) 
+http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",CBSN Philly PA (720p) 
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",CBSN Pittsburgh PA (720p) 
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
+
+#EXTINF:-1 tvg-id="" status="online",FOX 2 Detroit MI (WJBK) (720p) [Não 24/7] 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",FOX 2 San Francisco CA (KTVU) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",FOX 4 Dallas / Fort Worth TX (KDFW) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",FOX 5 Atlanta GA (WAGA-TV) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX 5 New York NY (WNYW) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX 5 Washington DC (WTTG) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX 6 Milwaukee WI (WITI) (720p) [Não 24/7] 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WITI-Monetizer.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",FOX 7 Austin TX (KTBC) (720p) [Não 24/7] 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTBC-Monetizer.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX 9 ST Paul Minneapolis MN (KMSP) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX 10 Phoenix AZ (KZAS) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX 11 Los Angeles CA (KTTV) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",FOX 13 Memphis TN (WHBQ-TV) (720p) [Não 24/7] 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX 13 Tampa Bay FL (WTVT) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTVT-Monetizer.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX 26 Houston TX (KRIV) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KRIV-Monetizer.m3u8 
+
+#EXTINF:-1 tvg-id="" status="online",FOX 29 Philadelphia PA (WTXF-TV) (720p) [Não 24/7] 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTXF-Monetizer.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX 32 Chicago IL (WFLD) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX 35 Orlando FL (WOFL) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8
+ 
+#EXTINF:-1 tvg-id="" status="online",FOX Q13 Seattle WA (KCPQ) (720p) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8 
+
+#EXTINF:-1 tvg-id="PlutoTVFOXSports.us" status="online",Pluto TV FOX Sports (720p) 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId= 
+
+#EXTINF:-1 tvg-id="PlutoTVFOXSports.us" status="online",Pluto TV FOX Sports (720p) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
+
+#EXTINF:-1 tvg-id="PlutoTVNFLChannel.us" status="online",Pluto TV NFL Channel (720p) 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId= 
+
+#EXTINF:-1 tvg-id="PlutoTVNFLChannel.us" status="online",Pluto TV NFL Channel (720p) [Não 24/7] 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersio
+n=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TA
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL Network
+http://tv.romanija.xyz:8080/22maky/test111/1659?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL BUFFALO BILLS
+http://mains.services:2086/stanleyg/6916329/55090?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",MLB Network
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/62229?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MLB NEW YORK YANKEES
+http://mains.services:2086/stanleyg/6916329/50123?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="FoxSports.us" status="online",Pluto TV FOX Sports (720p) 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId= 
+
+#EXTINF:-1 tvg-id="FoxSports.us" status="online",Pluto TV FOX Sports (720p) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
+
+#EXTINF:-1 tvg-id="MLB.us" status="online",Pluto TV MLB (720p) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2 FHD 1080
+http://mains.services:2086/lorre/3Jy14gb2kR/64126?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/85?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2
+http://romanija.xyz:8080/22supertv7753/razmjena5262352/1652?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN News
+http://new-pro.tv:8080/Fernando/123321/70393?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPNEWS
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3284?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN U
+http://tv.romanija.xyz:8080/22maky/test111/21873?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yes Network HD
+http://new-pro.tv:8080/Fernando/123321/90144?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
+http://mains.services:2086/stanleyg/6916329/92132?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2
+http://mains.services:2086/stanleyg/6916329/92133?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 HD 1080
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJ3pnvUR7Zoj5SwaNHxbTuY?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4
+http://fortv.cc:8080/alphonso/alphonso/78494?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 5
+http://romanija.xyz:8080/22supertv7753/razmjena5262352/1555?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORTS 1 HD
+http://new-pro.tv:8080/Fernando/123321/98189?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORTS 2 HD
+http://new-pro.tv:8080/Fernando/123321/98188?checkedby:iptvcat.com
+
+ 
